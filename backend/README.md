@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Hosted-backend-link](#https://gametheory-assignment-1.onrender.com/)
+- [Hosted Backend Link](https://gametheory-assignment-1.onrender.com/)
 - [Tech Stack](#tech-stack)
 - [API Endpoints](#api-endpoints)
 - [User Roles](#user-roles)
